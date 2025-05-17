@@ -1,4 +1,3 @@
----
 # Company-Management-System-Two
 
 A **Company Management System** built with **HTML, CSS, JavaScript, PHP**, and **MySQL**, designed to manage company operations like employees, departments, tasks, and more. This system runs on a local server using **XAMPP**.
