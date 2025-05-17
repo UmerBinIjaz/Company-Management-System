@@ -517,7 +517,7 @@ if (isset($_POST["submit"])) {
                                 }
                                 
                                 </script>
-                                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&callback=initMap"></script>
+                                <script src="#"></script>
                                 
                             </div>
                         </div> -->
