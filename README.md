@@ -1,23 +1,27 @@
 # Company-Management-System-Two
 
-A **Company Management System** built with **HTML, CSS, JavaScript, PHP**, and **MySQL**, designed to manage company operations like employees, departments, tasks, and more. This system runs on a local server using **XAMPP**.
+A **Company Management System** built with **HTML, CSS, JavaScript, PHP**, and **MySQL**, designed to manage company operations like teams, categories, posts, events, and admins. This system runs on a local server using **XAMPP**.
+
+---
 
 ## 🔧 Features
 
-* Team management
-* Categories Mnagement
-* Posts Management
-* Events Management
-* Admins Management
-* Responsive UI using HTML/CSS/JS
-* Backend using PHP & MySQL
+- Team Management  
+- Categories Management  
+- Posts Management  
+- Events Management  
+- Admins Management  
+- Responsive UI using HTML/CSS/JS  
+- Backend using PHP & MySQL  
+
+---
 
 ## 🖥️ Technologies Used
 
-* HTML, CSS, JavaScript
-* PHP (Core PHP)
-* MySQL
-* XAMPP (Apache + MySQL)
+- HTML, CSS, JavaScript  
+- PHP (Core PHP)  
+- MySQL  
+- XAMPP (Apache + MySQL)
 
 ---
 
@@ -27,40 +31,38 @@ Follow these steps to run the project locally on your system:
 
 ### 1. Download the Project
 
-* Click the green **Code** button above.
-* Choose **Download ZIP**.
-* Extract the folder to a desired location.
+- Click the green **Code** button above.
+- Choose **Download ZIP**.
+- Extract the folder to a desired location.
 
 ### 2. Move to XAMPP `htdocs` Folder
 
-* Copy the extracted folder (e.g., `Company-Management-System`) into:
+- Copy the extracted folder (e.g., `Company-Management-System`) into:
 
-  ```
-  C:\xampp\htdocs\
-  ```
 
 ### 3. Import the Database
 
-* Open **XAMPP Control Panel**.
-* Start **Apache** and **MySQL**.
-* Visit:
+- Open **XAMPP Control Panel**.
+- Start **Apache** and **MySQL**.
+- Visit:
 
-  ```
-  http://localhost/phpmyadmin
-  ```
-* Create a new database named: bic_cms
+- Create a new database named:
 
-  ```
-  company_management
-  ```
-* Import the `bic_cms.sql` file included in the project folder.
+- Import the `bic_cms.sql` file included in the project folder.
 
 ### 4. Run the Project
 
-* Open your browser and navigate to:
+- Open your browser and navigate to:
 
-  ```
-  http://localhost/Company-Management-System/
-  ```
-```
-Feel free to customize the description based on the actual structure and features of your project. If you want, I can also help you write a more tailored `README.md` file directly.
+
+---
+
+## 📌 Note
+
+- Make sure **XAMPP** is installed and running.
+- PHP version should be **7.x or higher**.
+- Adjust file and folder names in the URLs or paths if you renamed the project folder.
+
+---
+
+### 👨‍💻 Feel free to customize the description based on the actual structure and features of your project. If you want, I can also help you write a more tailored `README.md` file directly.
