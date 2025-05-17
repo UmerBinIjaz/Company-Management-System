@@ -57,6 +57,16 @@ Follow these steps to run the project locally on your system:
 
 ---
 
+
+### 4. Admin Credentials
+
+- Open your browser and navigate to: localhost/Company Management System/admin/login.php
+
+Username: admin
+Password: admin
+---
+
+
 ## 📌 Note
 
 - Make sure **XAMPP** is installed and running.
