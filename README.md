@@ -68,9 +68,8 @@ Follow these steps to run the project locally on your system:
 
 ## 📌 Note
 
-* Make sure XAMPP is installed and running on your system.
-* PHP version should be 7.x or higher.
-
+Make sure XAMPP is installed and running on your system.
+PHP version should be 7.x or higher.
 ---
 
 Feel free to customize the description based on the actual structure and features of your project. If you want, I can also help you write a more tailored `README.md` file directly.
