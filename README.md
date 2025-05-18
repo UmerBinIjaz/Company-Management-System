@@ -74,5 +74,3 @@ Password: admin
 - Adjust file and folder names in the URLs or paths if you renamed the project folder.
 
 ---
-
-### 👨‍💻 Feel free to customize the description based on the actual structure and features of your project. If you want, I can also help you write a more tailored `README.md` file directly.
